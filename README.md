@@ -23,6 +23,11 @@
 
 <h4>Ways to Contact Me!</h4>
 
-- Personal Gmail: **joseph.ben.zeru@gmail.com**
+<div align="center">
+  <b>
+    Check Out My Resume! →
+    <a href=mailto:joseph.ben.zeru@gmail.com>joseph.ben.zeru@gmail.com</a>
+  </b>
+</div>
 - School Email: **zerujb@rhit.edu**
 - LinkedIn: **https://www.linkedin.com/in/joseph-zeru/**
