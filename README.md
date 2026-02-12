@@ -5,14 +5,11 @@
   Co-Founder & VP of BinaryHeart @ RHIT · Content Creator on Instagram and YouTube
 </div>
 
-<h4>Jobs and Involvement</h4>
-<h6 align="center">Co-Founder & VP of BinaryHeart @ RHIT</h6>
-<h6 align="center">Content Creator on Instagram and YouTube</h6>
-
-
-
-
 <h4>Current Projects</h4>
+
+- The Document Privacy Analyzer | On Hold
+- Dirac Delta Calculator | In Progress
+- Python Data Tracker w/ matplotlib (private due to personal data) | Updated Weekly
 
 <h4>Ways to Contact Me!</h4>
 
