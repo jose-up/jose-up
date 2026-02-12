@@ -7,6 +7,7 @@
 <h4>Current Projects</h4>
 
 <h4>Ways to Contact Me!</h4>
--  Personal Gmail: **joseph.ben.zeru@gmail.com**
--  School Email: **zerujb@rhit.edu**
--  LinkedIn: **https://www.linkedin.com/in/joseph-zeru/**
+
+- Personal Gmail: **joseph.ben.zeru@gmail.com**
+- School Email: **zerujb@rhit.edu**
+- LinkedIn: **https://www.linkedin.com/in/joseph-zeru/**
