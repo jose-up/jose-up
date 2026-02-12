@@ -1,9 +1,8 @@
 <h1 align="center">Hey guys! It's Joseph :)</h1>
 
 <div align="center">
-  <b>Computer Science and Mathematics · Class of 2028</b><br>
-  Certificate in Quantum Science, Computing & Engineering<br>
-  <sub>Minors in Imaging & Music</sub>
+  <b>Computer Science and Mathematics · Quantum Computing and Imaging</b><br>
+  <sub>Class of 2028</sub>
 </div>
 
 <h4>Jobs and Involvement</h4>
