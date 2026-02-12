@@ -13,6 +13,11 @@
     Check Out My Resume! →
     <a href="https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view">📄</a>
   </b>
+
+  <b>
+    LinkedIn →
+    <a href=https://www.linkedin.com/in/joseph-zeru/>zerujb@rhit.edu</a>
+  </b>
 </div>
 
 <h4>Current Projects</h4>
@@ -25,9 +30,12 @@
 
 <div align="center">
   <b>
-    Check Out My Resume! →
+    Personal Email →
     <a href=mailto:joseph.ben.zeru@gmail.com>joseph.ben.zeru@gmail.com</a>
   </b>
+  
+  <b>
+    School Email →
+    <a href=mailto:zerujb@rhit.edu>zerujb@rhit.edu</a>
+  </b>
 </div>
-- School Email: **zerujb@rhit.edu**
-- LinkedIn: **https://www.linkedin.com/in/joseph-zeru/**
