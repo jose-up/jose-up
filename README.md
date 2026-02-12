@@ -9,7 +9,10 @@
 </div>
 
 <div align="center">
-  <b>Check Out My Resume! --> [📄](https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view)</b>
+  <b>
+    Check Out My Resume! →
+    <a href="https://drive.google.com/file/d/1O16_g1MuCBie3t5yKknJELs4bdXkujq5/view">📄</a>
+  </b>
 </div>
 
 <h4>Current Projects</h4>
