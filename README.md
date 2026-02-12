@@ -29,7 +29,7 @@
 
 - **Document Privacy Analyzer** → On Hold  
 - **Dirac Delta Calculator** → In Progress  
-- **Python Data Tracker (matplotlib)** → Updated Weekly *(private due to personal data)*  
+- **Python Data Tracker with matplotlib** → Updated Weekly *(private due to personal data)*  
 
 <h3>Ways to Contact Me</h3>
 
