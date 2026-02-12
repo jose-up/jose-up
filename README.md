@@ -1,11 +1,12 @@
-<h1 align="center">Hey guys! It's Joseph</h1>
+<h1 align="center">Joseph Zeru</h1>
 
 <div align="center">
-  <h3>Co-Founder & Vice President @ BinaryHeart</h3>
-  <h4>Computer Science & Mathematics · Class of 2028</h4>
-  <h5>Quantum Science, Computing & Engineering</h5>
-  <h6>Minors in Imaging & Music</h6>
+  <b style="font-size:20px;">Co-Founder & VP of BinaryHeart @ RHIT</b><br>
+  <span style="font-size:17px;">Comp Sci and Mathematics · Class of 2028</span><br>
+  <span style="font-size:15px;">Certificate of Quantum Science, Computing & Engineering</span><br>
+  <span style="font-size:14px;">Minors in Imaging & Music</span>
 </div>
+
 
 
 
