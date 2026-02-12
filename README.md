@@ -5,7 +5,7 @@
   
   Co-Founder & VP of BinaryHeart @ RHIT · Class of 2028
 
-  <sup>Semi-Professional Cellist and Composer · Content Creator on Instagram and YouTube</sup>
+  <sub>Semi-Professional Cellist and Composer · Content Creator on Instagram and YouTube</sub>
 </div>
 
 <div align="center">
