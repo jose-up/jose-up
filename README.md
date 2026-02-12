@@ -1,4 +1,4 @@
-<h1 align="center">Joseph Zeru</h1>
+<h1 align="center">Hey guys! It's Joseph</h1>
 
 <div align="center">
   <h3>Co-Founder & Vice President @ BinaryHeart</h3>
