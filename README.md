@@ -38,5 +38,5 @@
 
 <h3>Check Out My Content!</h3>
 
-- **Instagram** → <a href="https://instagram.com/worldofjoseup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta/@worldofjoseup" height="30" width="40" /></a>
-- **YouTube** → <a href="https://youtube.com/@worldofjoseup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yt/@worldofjoseup" height="30" width="40" /></a>
+- **Instagram** → <a href="https://instagram.com/joseup.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta/@joseup.mp4" height="30" width="40" /></a>
+- **YouTube** → <a href="https://youtube.com/@joseup.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yt/@joseup.mp4" height="30" width="40" /></a>
