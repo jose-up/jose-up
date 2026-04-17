@@ -1,5 +1,3 @@
 <html>
-  <div>
-    <h1>Joseph Bennett Zeru</h1><h2>(he/him></h2>
-  </div>
+  <h1><p font="12px">Joseph Bennett Zeru</p><p font="10px"></p></h1>
 </html>
