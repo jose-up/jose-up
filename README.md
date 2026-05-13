@@ -1,1 +1,3 @@
-[![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=jose-up)](https://github.com/anuraghazra/github-readme-stats)
+- Research-focused undergraduate with interests in Quantum Algorithms & Mahcine Learning
+- Developer focused in creating projects with real-world impact
+- Currently working on a Neural Network Security Analysis Tool!
