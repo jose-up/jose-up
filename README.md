@@ -1,3 +1,3 @@
-- Research-focused undergraduate with interests in Quantum Algorithms & Mahcine Learning
+- Research-focused undergraduate with interests in Machine Learning
 - Developer focused in creating projects with real-world impact
 - Currently working on a Remote Security Analysis Tool Using a Neural Network!
