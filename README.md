@@ -1,3 +1,17 @@
-- Research-focused undergraduate with interests in Machine Learning
-- Developer focused in creating projects with real-world impact
-- Currently working on a Remote Security Analysis Tool Using a Neural Network!
+<style>
+  @import url('https://googleapis.com');
+  
+  * {
+    font-family: 'Manrope', sans-serif;
+  }
+  .manrope-<uniquifier> {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+</style>
+
+<html>
+  <h1>(o^^)o I'm Joseph!</h1>
+</html>
