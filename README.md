@@ -5,9 +5,20 @@
   <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" width="40" height="40" alt="Figma"></a>
 </h1>
 
+<h1 align="center">
+  (o^^)o I'm Joseph! --(check out my links)-->
+  <img src="icon-links/linkedin.svg" height="32" align="absmiddle" alt="LinkedIn">
+  <img src="icon-links/twitter.svg" height="32" align="absmiddle" alt="X/Twitter">
+  <img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma">
+</h1>
 
-## Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
-Current Undergraduate at the Rose-Hulman Institute of Technology >:)
+<h2 align="center">
+  Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
+  <br>
+  Current Undergraduate at the Rose-Hulman Institute of Technology >:)
+</h2>
 
-o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
+<p align="center">
+  o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
 If I'm not coding, I'll be making music, consumer tech content, or Instagram reels! You can check them out on my website -> <a href="https://worldofjoseup.live/">
+</p>
