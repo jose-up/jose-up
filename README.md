@@ -1,15 +1,8 @@
-<h1>
-  (o^^)o I'm Joseph! --(check out my links)-->
-  <a href="https://www.linkedin.com/in/joseph-zeru/"><img src="icon-links/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
-  <a href="https://x.com/joseup_bmp"><img src="icon-links/twitter.svg" width="40" height="40" alt="Twitter"></a>
-  <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" width="40" height="40" alt="Figma"></a>
-</h1>
-
 <h1 align="center">
   (o^^)o I'm Joseph! --(check out my links)-->
-  <img src="icon-links/linkedin.svg" height="32" align="absmiddle" alt="LinkedIn">
-  <img src="icon-links/twitter.svg" height="32" align="absmiddle" alt="X/Twitter">
-  <img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma">
+  <a href="https://www.linkedin.com/in/joseph-zeru/"><img src="icon-links/linkedin.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
+  <a href="https://x.com/joseup_bmp"><img src="icon-links/twitter.svg" height="32" align="absmiddle" alt="X/Twitter"></a>
+  <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma"></a>
 </h1>
 
 <h2 align="center">
