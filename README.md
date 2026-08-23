@@ -11,7 +11,8 @@
     <br>
     <h3 align="center">
       <a href="https://worldofjoseup.live/">Check out my website!</a>
-    </h3>
+    </h3>  
+    <br>
 </h2>
 
 
