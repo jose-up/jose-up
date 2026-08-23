@@ -3,7 +3,8 @@
   <a href="https://www.linkedin.com/in/joseph-zeru/"><img src="icon-links/linkedin.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
   <a href="https://x.com/joseup_bmp"><img src="icon-links/twitter.svg" height="32" align="absmiddle" alt="X/Twitter"></a>
   <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma"></a>
-  <h2 align="center">
+</h1>
+<h2 align="center">
     Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
     <br>
     Undergraduate at the Rose-Hulman Institute of Technology >:)
@@ -11,8 +12,7 @@
     <h3 align="center">
       <a href="https://worldofjoseup.live/">Check out my website!</a>
     </h3>
-  </h2>
-</h1>
+</h2>
 
 
 
