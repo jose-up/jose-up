@@ -1,9 +1,3 @@
-<style>
-  .a {
-    margin-top: -150px;
-  }
-</style>
-
 <h1>
   (o^^)o I'm Joseph! --(check out my links)-->
   <a href="https://www.linkedin.com/in/joseph-zeru/"><img src="icon-links/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
