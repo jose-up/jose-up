@@ -9,9 +9,10 @@
   Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
   <br>
   Undergraduate at the Rose-Hulman Institute of Technology >:)
+  <a href="https://worldofjoseup.live/">Check out my website!</a>
 </h2>
 
 <p align="center">
   o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
-If I'm not coding, I'll be making music, consumer tech content, or Instagram reels! You can check them out on my website -> <a href="https://worldofjoseup.live/">
+If I'm not coding, I'll be making music, consumer tech content, or Instagram reels! You can check them out on my website :P
 </p>
