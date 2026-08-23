@@ -1,8 +1,8 @@
 # (o^^)o I'm Joseph!
 
 
-## Studying Computer Science, Mathematics and International Studies @ Rose-Hulman!
-##
+## Studying Computer Science, Mathematics, International Studies, and Quantum Science & Computing!
+## Current Undergraduate at the Rose-Hulman Institute of Technology >:)
 
 <!-- Add your profile URLs in the href="" attributes below -->
 <p>
@@ -11,4 +11,5 @@
   <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" width="40" height="40" alt="Figma"></a>
 </p> 
 
-o/ My focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
+o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
+If I'm not coding, I'll be making music, consumer tech content, or Instagram reels! You can check them out on my website -> <a href="https://worldofjoseup.live/">
