@@ -9,7 +9,8 @@
   Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
   <br>
   Undergraduate at the Rose-Hulman Institute of Technology >:)
-  <a href="https://worldofjoseup.live/">Check out my website!</a>
+  <br>
+  <h3><a href="https://worldofjoseup.live/">Check out my website!</a></h3>
 </h2>
 
 <p align="center">
