@@ -8,7 +8,7 @@
 <h2 align="center">
   Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
   <br>
-  Current Undergraduate at the Rose-Hulman Institute of Technology >:)
+  Undergraduate at the Rose-Hulman Institute of Technology >:)
 </h2>
 
 <p align="center">
