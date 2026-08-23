@@ -10,7 +10,7 @@
   <br>
   Undergraduate at the Rose-Hulman Institute of Technology >:)
   <br>
-  <h3><a href="https://worldofjoseup.live/">Check out my website!</a></h3>
+  <h3 align="center"><a href="https://worldofjoseup.live/">Check out my website!</a></h3>
 </h2>
 
 <p align="center">
