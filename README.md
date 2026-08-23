@@ -6,7 +6,7 @@
 </h1>
 
 
-## Studying Computer Science, Mathematics, International Studies, and Quantum Science & Computing!
+## Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
 Current Undergraduate at the Rose-Hulman Institute of Technology >:)
 
 o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
