@@ -2,7 +2,7 @@
 
 
 ## Studying Computer Science, Mathematics, International Studies, and Quantum Science & Computing!
-## Current Undergraduate at the Rose-Hulman Institute of Technology >:)
+Current Undergraduate at the Rose-Hulman Institute of Technology >:)
 
 <!-- Add your profile URLs in the href="" attributes below -->
 <p>
