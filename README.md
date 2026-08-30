@@ -5,7 +5,7 @@
   <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma"></a>
 </h1>
 <h2 align="center">
-    Studying Computer Science, Mathematics, International Studies, and Quantum Computing!
+    Studying Computer Science, Mathematics, and Quantum Computing!
     <br>
     Undergraduate at the Rose-Hulman Institute of Technology >:)
     <br>
