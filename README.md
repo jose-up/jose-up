@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="https://worldofjoseup.live/">(o^^)o I'm Joseph!</a> --(check out my links)-->
-  <a href="https://www.linkedin.com/in/joseph-zeru/"><img src="icon-links/linkedin.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
   <a href="https://x.com/joseup_bmp"><img src="icon-links/twitter.svg" height="32" align="absmiddle" alt="X/Twitter"></a>
   <a href="https://www.figma.com/@josephzeru"><img src="icon-links/figma.svg" height="32" align="absmiddle" alt="Figma"></a>
 </h1>
