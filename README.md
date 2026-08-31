@@ -11,6 +11,6 @@
 </h2>
 
 <p align="center">
-  o/ My primary focus is in Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
+  o/ My primary focuses are Machine Learning and Algorithm Design. Typically, I'll be working on personal projects or tools focused on digital transparency for BinaryHeart!
 If I'm not coding, I'll be making music, consumer tech content, or Instagram reels!
 </p>
